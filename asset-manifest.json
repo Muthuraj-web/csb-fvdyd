@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://muthuraj-web.github.io/csb-fvdyd/static/css/main.30a5c38c.chunk.css",
+    "main.js": "https://muthuraj-web.github.io/csb-fvdyd/static/js/main.0f2217f7.chunk.js",
+    "main.js.map": "https://muthuraj-web.github.io/csb-fvdyd/static/js/main.0f2217f7.chunk.js.map",
+    "runtime-main.js": "https://muthuraj-web.github.io/csb-fvdyd/static/js/runtime-main.75384458.js",
+    "runtime-main.js.map": "https://muthuraj-web.github.io/csb-fvdyd/static/js/runtime-main.75384458.js.map",
+    "static/js/2.ce54f2bc.chunk.js": "https://muthuraj-web.github.io/csb-fvdyd/static/js/2.ce54f2bc.chunk.js",
+    "static/js/2.ce54f2bc.chunk.js.map": "https://muthuraj-web.github.io/csb-fvdyd/static/js/2.ce54f2bc.chunk.js.map",
+    "index.html": "https://muthuraj-web.github.io/csb-fvdyd/index.html",
+    "static/css/main.30a5c38c.chunk.css.map": "https://muthuraj-web.github.io/csb-fvdyd/static/css/main.30a5c38c.chunk.css.map",
+    "static/js/2.ce54f2bc.chunk.js.LICENSE.txt": "https://muthuraj-web.github.io/csb-fvdyd/static/js/2.ce54f2bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75384458.js",
+    "static/js/2.ce54f2bc.chunk.js",
+    "static/css/main.30a5c38c.chunk.css",
+    "static/js/main.0f2217f7.chunk.js"
+  ]
+}
